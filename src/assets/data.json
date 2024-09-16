@@ -1,0 +1,74 @@
+{
+  "menu": [
+    {
+      "title": "Common Objections",
+      "background": "#3498db", 
+      "items": [
+        {
+          "header": "Price is too high",
+          "content": "Provide value comparison, highlight long-term savings, and explain product quality."
+        },
+        {
+          "header": "Need to consult a partner",
+          "content": "Encourage setting up a follow-up meeting and offer additional resources to assist in the decision."
+        }
+      ]
+    },
+    {
+      "title": "Company Policy",
+      "background": "#e74c3c", 
+      "items": [
+        {
+          "header": "Return Policy",
+          "content": "Customers have 30 days to return products in original condition with a receipt."
+        },
+        {
+          "header": "Attendance Policy",
+          "content": "Employees are expected to maintain regular attendance and inform their supervisors in advance for planned absences."
+        }
+      ]
+    },
+    {
+      "title": "FAQ",
+      "background": "#27ae60", 
+      "items": [
+        {
+          "header": "How do I reset my password?",
+          "content": "Click on 'Forgot Password' on the login page and follow the instructions."
+        },
+        {
+          "header": "How do I access the company portal?",
+          "content": "Use your employee credentials to log in at portal.company.com."
+        }
+      ]
+    },
+    {
+      "title": "Legal Documents",
+      "background": "#f39c12", 
+      "items": [
+        {
+          "header": "Employee Handbook",
+          "content": "The Employee Handbook outlines company policies, procedures, and benefits. Refer to section 3 for HR policies."
+        },
+        {
+          "header": "Non-Disclosure Agreement (NDA)",
+          "content": "Employees must sign the NDA before accessing sensitive company information."
+        }
+      ]
+    },
+    {
+      "title": "Misc Links",
+      "background": "#9b59b6", 
+      "items": [
+        {
+          "header": "Company Directory",
+          "content": "Access the company directory to find contact information for all departments."
+        },
+        {
+          "header": "IT Support",
+          "content": "Submit a support ticket or contact IT at support@company.com for technical assistance."
+        }
+      ]
+    }
+  ]
+}
